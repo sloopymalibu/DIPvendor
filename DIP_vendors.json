@@ -3,6 +3,70 @@
     "0x009d011a": {
       "vendor": "Next Thing Co",
       "contact": "ahoyahoy@nextthing.co"
-    }
+    },
+    "0x00000000": {
+      "vendor": "Prototype 00",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000001": {
+      "vendor": "Prototype 01",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000002": {
+      "vendor": "Prototype 02",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000003": {
+      "vendor": "Prototype 03",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000004": {
+      "vendor": "Prototype 04",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000005": {
+      "vendor": "Prototype 05",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000006": {
+      "vendor": "Prototype 06",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000007": {
+      "vendor": "Prototype 07",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000008": {
+      "vendor": "Prototype 08",
+      "contact": "noreply@getchip.com"
+    },
+    "0x00000009": {
+      "vendor": "Prototype 09",
+      "contact": "noreply@getchip.com"
+    },
+    "0x0000000a": {
+      "vendor": "Prototype 10",
+      "contact": "noreply@getchip.com"
+    },
+    "0x0000000b": {
+      "vendor": "Prototype 11",
+      "contact": "noreply@getchip.com"
+    },
+    "0x0000000c": {
+      "vendor": "Prototype 12",
+      "contact": "noreply@getchip.com"
+    },
+    "0x0000000d": {
+      "vendor": "Prototype 13",
+      "contact": "noreply@getchip.com"
+    },
+    "0x0000000e": {
+      "vendor": "Prototype 14",
+      "contact": "noreply@getchip.com"
+    },
+    "0x0000000f": {
+      "vendor": "Prototype 15",
+      "contact": "noreply@getchip.com"
+    },
   }
 }
