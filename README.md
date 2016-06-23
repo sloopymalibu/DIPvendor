@@ -1,7 +1,7 @@
 # DIPvendor
 A simple database and python script to register vendor IDs.
 
-# A Minimally Viable Vendor Registration System
+## A Minimally Viable Vendor Registration System
 
 The JSON file is the master file that keeps track of DIP maker vendor IDs. Please only register what you need.
 
