@@ -13,7 +13,7 @@ import re
 def makeid(email,vendorname,preferredID=None):
     prefID = ''
     if preferredID:
-        prefID = preferredID
+        prefID = preferredID.lower()
     else:
         prefID = hex(random.randrange(0,2147483647))
     # read json of existing IDs
