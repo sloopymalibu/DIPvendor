@@ -1,1 +1,8 @@
-{"vendorIDs": {"0x009d011a": {"contact": "ahoyahoy@nextthing.co", "vendor": "Next Thing Co"}, "0x00000001": {"contact": "first@internet.com", "vendor": "FirstCo"}, "0x20bc2e55": {"contact": "person@dipmaker.com", "vendor": "DIP Makers Inc."}}}
+{
+  "vendorIDs": {
+    "0x009d011a": {
+      "vendor": "Next Thing Co",
+      "contact": "ahoyahoy@nextthing.co"
+    }
+  }
+}
