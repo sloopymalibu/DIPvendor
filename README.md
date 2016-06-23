@@ -5,6 +5,11 @@ A simple database and python script to register vendor IDs.
 
 The JSON file is the master file that keeps track of DIP maker vendor IDs. Please only register what you need.
 
+In brief:
+ - Clone this repository to your computer
+ - run the `genID.py` script
+ - create a pull request to update
+
 The simple python script can be called from the terminal.
 Call script with three arguments: contact email address, name of company, and, optionally, a preferred 32-bit vendor ID number in hex format. For example:
 ```

@@ -1,0 +1,13 @@
+{
+  "vendorIDs": {
+    "0x009d011a": {
+      "vendor": "Next Thing Co",
+      "contact": "ahoyahoy@nextthing.co"
+    },
+
+    "0x00000001": {
+      "vendor": "FirstCo",
+      "contact": "first@internet.com"
+    }
+  }
+}
