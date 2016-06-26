@@ -67,6 +67,10 @@
     "0x0000000f": {
       "vendor": "Prototype 15",
       "contact": "noreply@getchip.com"
+    },
+    "0x00006502": {
+      "vendor": "Digital Glass",
+      "contact": "sloopy@digitalglass.us"
     }
   }
 }
